@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3ee4d8d.chunk.css",
+    "main.js": "/static/js/main.5a92141a.chunk.js",
+    "main.js.map": "/static/js/main.5a92141a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3ad6166a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3ad6166a.js.map",
+    "static/js/2.a794ec2a.chunk.js": "/static/js/2.a794ec2a.chunk.js",
+    "static/js/2.a794ec2a.chunk.js.map": "/static/js/2.a794ec2a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e64d6aaa7c8beda63d96f8c58af1855a.js": "/precache-manifest.e64d6aaa7c8beda63d96f8c58af1855a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c3ee4d8d.chunk.css.map": "/static/css/main.c3ee4d8d.chunk.css.map",
+    "static/media/AboutCompany.module.sass": "/static/media/mountain.f35d417c.png",
+    "static/media/ProfitCalculator.module.sass": "/static/media/calc-bg.ffdecb4c.png",
+    "static/media/NavBar.module.sass": "/static/media/header-logo.e69801dc.svg",
+    "static/media/HowWorkLi.module.sass": "/static/media/how-work-01.679313c2.svg",
+    "static/media/ProtectionLi.module.sass": "/static/media/icon-security-pink.9a2f1f51.svg",
+    "static/media/AboutProject.module.sass": "/static/media/women.c98c1b1f.png"
+  }
+}
