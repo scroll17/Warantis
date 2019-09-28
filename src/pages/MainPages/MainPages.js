@@ -5,6 +5,10 @@ import Header from "../../components/Header/Header";
 import AboutProject from "../../components/AboutProject/AboutProject";
 import HowWeAreWorking from "../../components/HowWeAreWorking/HowWeAreWorking";
 import ProfitCalculator from "../../components/ProfitCalculator/ProfitCalculator";
+import SaveFond from "../../components/SaveFond/SaveFond";
+import SignUp from "../../components/SignUp/SignUp";
+import Footer from "../../components/Footer/Footer";
+
 
 function MainPages() {
     return (
@@ -13,6 +17,9 @@ function MainPages() {
             <AboutProject/>
             <HowWeAreWorking />
             <ProfitCalculator />
+            <SaveFond />
+            <SignUp />
+            <Footer />
         </div>
     );
 }

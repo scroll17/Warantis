@@ -6,7 +6,7 @@ function ProtectionLi(props) {
     const { text, linkText, link } = props;
     return (
         <li className={style.li}>
-            <p/>
+            <p />
             <p>
                 <span>
                     {text}
