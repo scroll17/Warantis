@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d54147c098679e16e29774d99c898a7",
+    "revision": "42ed2f68c457be35319025aa4542ef6b",
     "url": "/index.html"
   },
   {
-    "revision": "fe32fff903ac377b88f0",
-    "url": "/static/css/main.c3ee4d8d.chunk.css"
+    "revision": "f0518fab394763e311bb",
+    "url": "/static/css/main.fd76390d.chunk.css"
   },
   {
-    "revision": "25be65cc72dcf43e878e",
-    "url": "/static/js/2.a794ec2a.chunk.js"
+    "revision": "2247509526682a052465",
+    "url": "/static/js/2.2df48837.chunk.js"
   },
   {
-    "revision": "fe32fff903ac377b88f0",
-    "url": "/static/js/main.5a92141a.chunk.js"
+    "revision": "f0518fab394763e311bb",
+    "url": "/static/js/main.88b0eafd.chunk.js"
   },
   {
     "revision": "c13b23139526b2bc583f",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6bb0f17800ad81539298a62454f3cacd",
     "url": "/static/media/bg-bitcoin.6bb0f178.png"
+  },
+  {
+    "revision": "ba976eee7fbb5be0d20a1f58c9f39865",
+    "url": "/static/media/bg-pink.ba976eee.png"
   },
   {
     "revision": "ffdecb4c484d1cd08d6de8e37184e156",
@@ -54,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4cb7f94897b5c0f00867d5e44a61a26a",
     "url": "/static/media/icon-up-green.4cb7f948.svg"
+  },
+  {
+    "revision": "36eb3b7a5940b83d0d53a71553bf3e02",
+    "url": "/static/media/icon-user.36eb3b7a.svg"
   },
   {
     "revision": "974122a224fa61474e99cd1c5305dfae",
